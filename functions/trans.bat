@@ -1,0 +1,1 @@
+transformix -def DirLabel/NameLabel -out temp -tp temp/TransformParameters.0.txt
