@@ -32,5 +32,5 @@ Challenge (https://www.dir-lab.com/)
 
 ![](inhale.PNG "inhae and exhale images")
 
-* More detail of the project can be found in report.pdf file.
+* More detail about the project can be found in report.pdf file.
 
