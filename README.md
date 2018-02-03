@@ -32,16 +32,5 @@ Challenge (https://www.dir-lab.com/)
 
 ![](images/inhale.PNG "inhae and exhale images")
 
-## sample input and output
-
-![](images/Selection_026.png "Sample input and output image")
-![](images/Selection_027.png "Sample input and output image")
-
-## sample output: True positive and False positive pixels
-Red collor indicates False positive and Yellow collor is for False positive.
-
-![](images/Selection_028.png "Sample input and output image")
-
-
 * More detail of the project can be found in report.pdf file.
 
