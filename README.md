@@ -22,7 +22,7 @@ landmarks coordinates and evaluate by 3D Euclidean distance between transformed 
 
 ## Softwares required
 * MATLAB
-* Elastix \href{http://elastix.isi.uu.nl/index.php}{http://elastix.isi.uu.nl/index.php}
+* Elastix(http://elastix.isi.uu.nl/index.php)
 
 ## inhae and exhale images images example
 
