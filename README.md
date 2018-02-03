@@ -30,7 +30,7 @@ Challenge (https://www.dir-lab.com/)
 
 ## inhae and exhale images images example
 
-![](images/inhale.PNG "inhae and exhale images")
+![](inhale.PNG "inhae and exhale images")
 
 * More detail of the project can be found in report.pdf file.
 
